@@ -1,2 +1,2 @@
 # IT School
- This is an IT School made with C# language that stores the data with SQL.
+ This is a management system for an IT School made with C# language that stores the data with SQL.
